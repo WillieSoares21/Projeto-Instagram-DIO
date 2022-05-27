@@ -10,3 +10,4 @@ Projeto feio acompanhando pela plataforma da DIO!
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## 🚀 Let's code! 🚀
+Realizado por Willie Soares acompanhado por  Gabriela.
